@@ -1,5 +1,5 @@
 🚀 Your First AI Agent: From Prompt to Action
-Welcome to the Kaggle 5-day Agents course!
+
 
 This notebook is your first step into building AI agents. An agent can do more than just respond to a prompt — it can take actions to find information or get things done.
 
